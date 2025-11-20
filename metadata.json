@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of TURTLEsn",
+  "description": "An anonymous, registration-free messenger powered by Gemini AI personalities. Just pick a nickname and chat.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
